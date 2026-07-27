@@ -2,7 +2,7 @@
 
 **Your coding agent writes reports that are technically correct and unreadable.** Walls of jargon, `file:line` dumps, telegraphic bullets, invented terms. The team stops reading. This skill fixes that — deep content, easy reading.
 
-![skill](https://img.shields.io/badge/type-agent%20skill-3d5a99) ![works with](https://img.shields.io/badge/works%20with-Claude%20Code%20%C2%B7%20any%20agent-2f8f5b) ![license](https://img.shields.io/badge/license-MIT-555)
+![skill](https://img.shields.io/badge/type-agent%20skill-3d5a99) ![works with](https://img.shields.io/badge/works%20with-Claude%20Code%20%C2%B7%20any%20agent-2f8f5b) ![license](https://img.shields.io/badge/license-MIT-555) [![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/riversound)
 
 ![before and after](./before-after.svg)
 
@@ -73,6 +73,12 @@ for the *human-facing* report.
 
 Issues and PRs welcome — especially better before/after examples and rules that
 catch failure modes not covered here.
+
+## Support
+
+If this skill saves you time, you can [buy me a coffee](https://ko-fi.com/riversound) ☕ — it helps keep the project moving. Thank you!
+
+<a href="https://ko-fi.com/riversound"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" height="36"></a>
 
 ## License
 
