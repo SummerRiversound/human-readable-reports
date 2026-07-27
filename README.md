@@ -4,6 +4,8 @@
 
 ![skill](https://img.shields.io/badge/type-agent%20skill-3d5a99) ![works with](https://img.shields.io/badge/works%20with-Claude%20Code%20%C2%B7%20any%20agent-2f8f5b) ![license](https://img.shields.io/badge/license-MIT-555)
 
+![before and after](./before-after.svg)
+
 ---
 
 ## The problem (you're not imagining it)
