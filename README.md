@@ -27,18 +27,21 @@
 
 Same facts. One of them your team will actually read.
 
-## The 10 rules
+## The 13 rules
 
-1. **Reader-first** — write in their language, at their level.
+1. **Reader-first** — name the reader before writing; by default, a junior dev who wasn't there.
 2. **Point first** — each section opens with the takeaway in one plain sentence.
-3. **Analogy up front** — ground the concept in something concrete.
-4. **Full sentences**, not fragments.
+3. **Concrete before abstract** — one plain picture for a new concept; the real sequence of events for a cause or change.
+4. **Full sentences**, not fragments — bullets for parallel items, sentences for cause and effect.
 5. **Explain or drop jargon** — no bare formulas, no coined terms.
 6. **Evidence to the back** — no `file:line` in the prose; put it in end-notes.
 7. **Table cells read as phrases**, not code.
-8. **Cut the slop** — no throat-clearing, no needless caveats.
+8. **Cut the slop** — no throat-clearing, no needless caveats, no padding.
 9. **Progressive disclosure** — hide depth behind expandable sections.
 10. **Tone: teammate, not lecture.**
+11. **Numbers match the evidence** — nothing unmeasured, no claim stronger than the data.
+12. **Shared-document hygiene** — no decoration or emoji; follow the last version's format.
+13. **Articles and talks** may open with a scene, but never invent the author's experience.
 
 Full rules, checklist, and the "when NOT to use it" boundary are in [`SKILL.md`](./SKILL.md).
 
@@ -76,7 +79,7 @@ catch failure modes not covered here.
 
 ## Support
 
-If this skill saves you time, you can [buy me a coffee](https://ko-fi.com/riversound) ☕ — it helps keep the project moving. Thank you!
+If this skill saves you time, you can [buy me a coffee](https://ko-fi.com/riversound) — it helps keep the project moving. Thank you!
 
 <a href="https://ko-fi.com/riversound"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" height="36"></a>
 
