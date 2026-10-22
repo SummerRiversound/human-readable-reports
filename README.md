@@ -27,6 +27,9 @@
 
 Same facts. One of them your team will actually read.
 
+For a whole report shown both ways, with the rule behind each change, see
+[`examples/`](./examples/): a flaky CI test write-up, before and after.
+
 ## The 13 rules
 
 1. **Reader-first** — name the reader before writing; by default, a junior dev who wasn't there.
