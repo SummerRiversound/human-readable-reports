@@ -1,0 +1,21 @@
+{
+  "name": "human-readable-reports",
+  "displayName": "Human-Readable Reports",
+  "version": "1.0.0",
+  "description": "Make AI-written analysis and report docs easy for humans to read and share (fights AI verbosity and slop).",
+  "author": {
+    "name": "SummerRiversound",
+    "url": "https://github.com/SummerRiversound"
+  },
+  "homepage": "https://github.com/SummerRiversound/human-readable-reports#readme",
+  "repository": "https://github.com/SummerRiversound/human-readable-reports",
+  "license": "MIT",
+  "keywords": [
+    "documentation",
+    "technical-writing",
+    "reports",
+    "ai-slop",
+    "agent-skill"
+  ],
+  "skills": "./"
+}

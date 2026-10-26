@@ -63,6 +63,10 @@ the *reading* easy.
     takeaway, as long as it ties to the central question; argue case → meaning
     → claim; no filler claims ("these days", "revolutionary"); never invent
     the author's experiences or beliefs when drafting in their voice.
+14. **Canonical docs state the final design only.** Specs, design docs and
+    wireframe notes carry no work-item numbers (`AB#1234`), no "per §X"
+    traceability cross-refs and no change rationale ("added because…"); that
+    belongs in the commit message.
 
 ## Before / after
 
