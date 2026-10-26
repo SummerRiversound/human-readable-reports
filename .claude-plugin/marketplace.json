@@ -1,0 +1,23 @@
+{
+  "name": "human-readable-reports",
+  "description": "Make AI-written analysis and report docs easy for humans to read and share (fights AI verbosity and slop).",
+  "owner": {
+    "name": "SummerRiversound",
+    "url": "https://github.com/SummerRiversound"
+  },
+  "plugins": [
+    {
+      "name": "human-readable-reports",
+      "source": "./",
+      "description": "Make AI-written analysis and report docs easy for humans to read and share (fights AI verbosity and slop).",
+      "category": "productivity",
+      "tags": [
+        "documentation",
+        "technical-writing",
+        "reports",
+        "ai-slop",
+        "agent-skill"
+      ]
+    }
+  ]
+}

@@ -11,7 +11,7 @@ up the cause for the team. The project is fictional; the failure pattern (test
 workers sharing one database) is a common one.
 
 - [Before](./flaky-ci-test/before.md): what the agent writes by default.
-- [After](./flaky-ci-test/after.md): the same findings with the 13 rules applied.
+- [After](./flaky-ci-test/after.md): the same findings with the rules applied.
 
 The after version is longer. The extra words are the step-by-step cause that
 the before version squeezed into one arrow chain, and the code locations moved

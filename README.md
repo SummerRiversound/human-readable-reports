@@ -30,7 +30,7 @@ Same facts. One of them your team will actually read.
 For a whole report shown both ways, with the rule behind each change, see
 [`examples/`](./examples/): a flaky CI test write-up, before and after.
 
-## The 13 rules
+## The 14 rules
 
 1. **Reader-first** — name the reader before writing; by default, a junior dev who wasn't there.
 2. **Point first** — each section opens with the takeaway in one plain sentence.
@@ -45,6 +45,7 @@ For a whole report shown both ways, with the rule behind each change, see
 11. **Numbers match the evidence** — nothing unmeasured, no claim stronger than the data.
 12. **Shared-document hygiene** — no decoration or emoji; follow the last version's format.
 13. **Articles and talks** may open with a scene, but never invent the author's experience.
+14. **Canonical docs state the final design only** — no ticket numbers, cross-refs or change history; that goes in the commit message.
 
 Full rules, checklist, and the "when NOT to use it" boundary are in [`SKILL.md`](./SKILL.md).
 
@@ -52,7 +53,14 @@ Full rules, checklist, and the "when NOT to use it" boundary are in [`SKILL.md`]
 
 ## Install
 
-**Claude Code / Claude agents** — clone into your skills directory:
+**Claude Code** — install it as a plugin, so `/plugin update` keeps it current:
+
+```
+/plugin marketplace add https://github.com/SummerRiversound/human-readable-reports.git
+/plugin install human-readable-reports@human-readable-reports
+```
+
+**Or clone it** into your skills directory (any Claude agent):
 
 ```bash
 # personal (all projects)
